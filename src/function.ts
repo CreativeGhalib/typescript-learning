@@ -44,3 +44,7 @@ poorUser.addBalance(100)
 const arr:number[]=[1,2,3,4,5]
 const newArr = arr.map((num: number): number => num * 2) // map method is a function that takes a callback function and applies it to each element of the array, returning a new array with the results
 //note:ekhane (num: number) return kore number type tai (num: number):number hoiyeche, jodi return type na dite chai tahole TypeScript automatically infer kore nibe je return type number hobe karon num * 2 always number hobe
+
+
+
+//Spread operator & rest operator
